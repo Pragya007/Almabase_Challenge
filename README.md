@@ -21,7 +21,7 @@ This is a CLI serving the purpose of fetching most popular repositories on the b
 
 ## How to Run
 1. Clone the Repository to a folder: ```git clone https://github.com/Pragya007/Almabase_Challenge.git```
-2. Run following in the command prompt: ```cd Almabase_Challenge/Code Files```
+2. Run following in the command prompt: ```cd Almabase_Challenge/Code\ Files```
 3. ```pip install re```
 4. ```pip install requests```
 5. ```pip install json```
